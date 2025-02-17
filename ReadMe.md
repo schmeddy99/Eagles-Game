@@ -48,6 +48,6 @@ At the peak of **Mount Arrowhead**, you find **The Chief**, guarding the **Lomba
 - **Game Over:** Make the wrong choice, and you will be banished from the island, never to claim the artifact.
 
 ## Game Credits
-- **Story and Design:** [Your Name]
-- **Game Development:** [Your Tools/Platform]
-- **Special Thanks:** [Anyone else you’d like to thank]
+- **Story and Design:** Ahmed Osman
+- **Game Development:** Python
+- **Special Thanks:** Congrats to the 2024-2025 Philadelphia Eagles for their Super Bowl Win!
